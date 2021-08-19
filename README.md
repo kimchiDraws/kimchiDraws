@@ -6,6 +6,6 @@ I created this github to store my web page ♥
 
     https://kimchidraws.github.io/commissions-webpage/
 
-// If you find any error please contact me //
+<h6><em>  If you find any errors please contact me. </em></h6>
 
 -Kimchi
